@@ -12,7 +12,7 @@ yesBtn.addEventListener("click", () => {
   // Create an anchor element
   const link = document.createElement("a");
   // Set the href attribute to the desired URL
-  link.href = "https://example.com/full-plan";
+  link.href = "https://wa.me/+2348156841952";
   // Set the text content of the anchor element
   link.textContent = "Yay, Click Me For the Full Plan";
   // Append the anchor element to the question element
